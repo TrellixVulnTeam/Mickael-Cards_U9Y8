@@ -5,8 +5,8 @@ metadata:
   name: cards
   description: Cards
   tags:
-    - React
-    - Redux
+    - react
+    - redux
   links:
     - url: https://example.com/web
       title: Website

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Mickael-Cards/static/css/main.3ce00cc3.chunk.css",
-    "main.js": "/Mickael-Cards/static/js/main.49460a1f.chunk.js",
-    "main.js.map": "/Mickael-Cards/static/js/main.49460a1f.chunk.js.map",
+    "main.js": "/Mickael-Cards/static/js/main.37a2f301.chunk.js",
+    "main.js.map": "/Mickael-Cards/static/js/main.37a2f301.chunk.js.map",
     "runtime-main.js": "/Mickael-Cards/static/js/runtime-main.d6bf26cb.js",
     "runtime-main.js.map": "/Mickael-Cards/static/js/runtime-main.d6bf26cb.js.map",
     "static/css/2.b4e56faa.chunk.css": "/Mickael-Cards/static/css/2.b4e56faa.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.b4e56faa.chunk.css",
     "static/js/2.e91a53af.chunk.js",
     "static/css/main.3ce00cc3.chunk.css",
-    "static/js/main.49460a1f.chunk.js"
+    "static/js/main.37a2f301.chunk.js"
   ]
 }

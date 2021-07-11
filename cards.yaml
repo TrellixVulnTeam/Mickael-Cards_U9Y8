@@ -1,0 +1,11 @@
+
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: cards
+  description: Cards
+spec:
+  type: website
+  lifecycle: production
+  owner: team-a
+  system: artist-engagement-portal

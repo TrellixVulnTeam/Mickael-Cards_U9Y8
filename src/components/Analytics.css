@@ -1,0 +1,39 @@
+p{
+    font-size: 22px;
+    color: gray;
+}
+.dashboard-root{
+   
+    background-color: white;
+    padding-top:40px;
+    display: flex;
+}
+.left{
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 40%;
+}
+.right{
+    width: 60%;
+    border-left-width: 5px;
+    border-left-style: solid;
+    border-left-color: lightgray;
+}
+.right .chart{
+   
+   
+}
+.left .user h1 {
+    font-size: 32px;
+    font-weight: bold;
+}
+.card{
+    height: 100%;
+}
+
+.card img{
+    height: 60%;
+    width: 45%;
+    margin: auto;
+    border-radius: 5px;
+}

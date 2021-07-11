@@ -77,7 +77,7 @@ const LayoutUI = ({ children }) => {
                     </div>
                 </Content> */}
                     <Switch>
-                        <Route path="/transactions">
+                        <Route path="/">
                             {/* <ListUI /> */}
                             <TableUI/>
                         </Route>

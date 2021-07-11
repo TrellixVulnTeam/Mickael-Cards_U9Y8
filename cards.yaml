@@ -4,8 +4,15 @@ kind: Component
 metadata:
   name: cards
   description: Cards
+  tags:
+    - React
+    - Redux
+  links:
+    - url: https://example.com/web
+      title: Website
+      icon: web
 spec:
   type: website
   lifecycle: production
   owner: team-a
-  system: artist-engagement-portal
+

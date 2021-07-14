@@ -4,6 +4,8 @@ kind: Component
 metadata:
   name: cards
   description: Cards
+  annotations:
+    backstage.io/code-coverage: value
   tags:
     - react
     - redux

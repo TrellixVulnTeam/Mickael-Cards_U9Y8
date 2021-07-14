@@ -4,6 +4,8 @@ kind: Component
 metadata:
   name: cards
   description: Cards
+  annotations:
+    backstage.io/techdocs-ref: url:https://github.com/Mickaz89/Mickael-Cards
   tags:
     - react
     - redux
